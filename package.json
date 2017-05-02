@@ -1,0 +1,28 @@
+{
+  "name": "associateddata",
+  "version": "1.0.0",
+  "description": "Testing data associations",
+  "main": "app.js",
+  "dependencies": {
+    "mongoose": "^4.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agm1984/associatedData.git"
+  },
+  "keywords": [
+    "Mongoose",
+    "models",
+    "associations"
+  ],
+  "author": "Adam Mackintosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agm1984/associatedData/issues"
+  },
+  "homepage": "https://github.com/agm1984/associatedData#readme"
+}
