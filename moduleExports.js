@@ -1,3 +1,6 @@
+// This file should be used only after objectReferences.js has ran
+// (all sections in it)
+
 var mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/object_references');
 
